@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\bootstrap.min.css" />
+    <None Include="wwwroot\bootstrap.min.js" />
+    <None Include="wwwroot\Chart.min.js" />
+    <None Include="wwwroot\dashboard.css" />
+    <None Include="wwwroot\favicon.png" />
+    <None Include="wwwroot\feather.min.js" />
+    <None Include="wwwroot\jquery-3.2.1.slim.min.js" />
+    <None Include="wwwroot\popper.min.js" />
+  </ItemGroup>
+
+</Project>
